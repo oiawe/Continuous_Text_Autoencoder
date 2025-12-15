@@ -1,0 +1,8 @@
+transformers
+datasets
+
+tqdm
+tensorboard
+
+# Webui
+# gradio
